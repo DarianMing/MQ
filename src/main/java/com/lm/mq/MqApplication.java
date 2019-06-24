@@ -8,6 +8,7 @@ public class MqApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MqApplication.class, args);
+
     }
 
 }
